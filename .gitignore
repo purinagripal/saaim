@@ -12,3 +12,10 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/public/.htaccess
+/public/.htaccess-ionos
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.styleci.yml
